@@ -1,2 +1,2 @@
 My first readme
-Updating my profile from github
+Updating my profile from GitHub
